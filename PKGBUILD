@@ -1,7 +1,7 @@
 # Maintainer: Daniel Hillenbrand <codeworkx [at] bbqlinux [dot] org>
 
 pkgname=bbqlinux-desktop-gnome
-pkgver=1.0.0
+pkgver=1.0.1
 pkgrel=1
 pkgdesc="BBQLinux GNOME Desktop"
 arch=('any')
@@ -19,6 +19,7 @@ depends=(
 # Theme
 'bbqlinux-theme'
 'bbqlinux-artwork'
+'bbqlinux-config-gtk'
 
 # gnome
 'adwaita-icon-theme'
