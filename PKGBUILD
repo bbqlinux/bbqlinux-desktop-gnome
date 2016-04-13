@@ -50,7 +50,7 @@ depends=(
 'gnome-themes-standard'
 'gnome-user-docs'
 'gnome-user-share'
-'grilo-plugins'
+'grilo'
 'grilo-plugins'
 'gucharmap'
 'mousetweaks'
