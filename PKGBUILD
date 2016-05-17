@@ -51,7 +51,6 @@ depends=(
 'gnome-user-docs'
 'gnome-user-share'
 'grilo-plugins'
-'grilo-plugins'
 'gucharmap'
 'mousetweaks'
 'mutter'
